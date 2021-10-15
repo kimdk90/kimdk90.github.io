@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "일상생활"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "dk kim"
 description              : "An amazing website."
 url                      : "https://kimdk90.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
